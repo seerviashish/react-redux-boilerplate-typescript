@@ -1,0 +1,4 @@
+node_modules
+# lingui
+**/locales/_build
+**/locales/**/*.js
